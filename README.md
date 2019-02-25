@@ -2,72 +2,74 @@
 
 ## How to add this to matlab
 First go to the folder you want the project to go in and then make a new folder for it
-1
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/1.jpg)
 
 On the github page click clone then copy the link
-3
-4
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/3.jpg)
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/4.jpg)
 
 Go inside the folder then right click > source control > manage files
-2
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/2.jpg)
 
 Paste the github link in the repository path box
 On the github page click clone then copy the link
-5
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/5.jpg)
 
-##Editing files
+## Editing files 
 Make an edit to a file and save it
-6
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/6.jpg)
 
 Commit the changes and include a comment
-7
-8
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/7.jpg)
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/8.jpg)
 
 changes can be viewed on the github page
-9
-10
-11
-12
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/9.jpg)
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/10.jpg)
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/11.jpg)
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/12.jpg)
 
 ## Adding new files to github
 Any new files must be manually marked for uploading to github
-24
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/24.jpg)
 
 Use add to SVN to mark it
-25
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/25.jpg)
 
 Commit the changes to upload it so other people can accesss it
-26
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/26.jpg)
 
 ## Updating files to the most recent version from github
 do the thing
-13
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/13.jpg)
 
 the file change is downloaded
-14
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/14.jpg)
 
 ## Dealing with conflicts
 When the same file has been edited by multiple people the difference in changes can cause conflicts.
-15
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/15.jpg)
 The same file has different edits
-16
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/16.jpg)
 
 Commiting changes will give an error
-17
-18
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/17.jpg)
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/18.jpg)
 
 Use the source control menu to compare the changes
-19
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/19.jpg)
 
 Select the most recent revision
-20
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/20.jpg)
 
 The diffrences are highlighted 
-21
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/21.jpg)
 
 Click a change and click merge to manually fix the conflicts
-22
-23
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/22.jpg)
+![](https://raw.githubusercontent.com/signalsgroupproject/Similar-Signals-Project/76260762372a8d4906d5f9004baffa730823bd8f/readme_images/23.jpg)
+
+And then you should be able to commit the changes
 
 
 
